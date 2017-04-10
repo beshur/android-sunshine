@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">Sunshine</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Shu!</string>
+    <string name="hello_world2">That\'s a yo!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="list_item_dummy">Today - sunny - 88\/63</string>
+    <string name="list_item_forecast_dummy_text">Today - Sunny</string>
+    <string name="title_activity_detail">DetailActivity</string>
 
 </resources>
